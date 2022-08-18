@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\vitor\OneDrive\Documents\Faculdade 2.8\Programação Objeto\Exercícios\Sequencial\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4169796609.index
+1491499557.index
+1067094681.index
